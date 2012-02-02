@@ -1,0 +1,77 @@
+p {
+  font-weight: bold;
+  color: blue;
+}
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+background-color: #e2edff;
+line-height: 150%;
+padding: 15px;
+
+left: 200px;
+}
+em{
+		color: red;
+		text-transform: uppercase;
+		background-color: black;
+}
+#tagline p {
+  font-style: italic;
+  font-family: Georgia, Times, serif;
+  background-color: #bed8f3;
+  border-top: 3px solid #7da5d8;
+  border-bottom: 3px solid #7da5d8;
+  padding-top: .2em;
+  padding-bottom: .2em;
+  padding-left: .8em;
+}
+
+#bodycontent{
+	color: red;
+	
+	
+}
+#footer p {
+  line-height: 150%;
+}
+
+#mainnavigation {
+  background-color: #ffcc33;
+  color: navy;
+  font-weight: bold;
+  width: 200px;
+  height: 200px;
+}
+h3 {
+  font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+  background-color: navy;
+  color: white;
+}
+h2 {
+  color: navy;
+  font-size: 130%;
+  font-weight: normal;
+  padding-top: 15px;
+}
+
+h1 {
+  font-size: x-large;
+  background-color: navy;
+  color: white;
+  padding-top: 2em;
+  padding-bottom: .2em;
+  padding-left: .4em;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  background-color: navy;
+}
+.cs p{
+	
+	color: red;
+}
+.cz{
+	color: blue;
+}
